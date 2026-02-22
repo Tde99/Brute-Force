@@ -1,9 +1,10 @@
-____  ____  _   _ _____ _____   _____ ___  ____   ____ _____ ____  
+```
+  ____  ____  _   _ _____ _____   _____ ___  ____   ____ _____ ____  
  | __ )|  _ \| | | |_   _| ____| |  ___/ _ \|  _ \ / ___| ____|  _ \ 
  |  _ \| |_) | | | | | | |  _|   | |_ | | | | |_) | |   |  _| | |_) |
  | |_) |  _ <| |_| | | | | |___  |  _|| |_| |  _ <| |___| |___|  _ < 
  |____/|_| \_\\___/  |_| |_____| |_|   \___/|_| \_\\____|_____|_| \_\
-
+```
 BRUTE-FORCER-ALL-IN-ONE
 A powerful Python-based automation wrapper for Ncrack. This tool provides a 
 comprehensive menu-driven interface to perform high-speed brute force attacks 
